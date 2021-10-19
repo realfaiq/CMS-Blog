@@ -1,0 +1,49 @@
+#dark{
+    background: black;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.box{
+    border: 1px solid darkgray;
+    padding: 8px;
+    background: #f5f5f5;
+}
+
+#heading{
+    color: blueviolet;
+}
+
+#heading:hover{
+    color: #0090db;
+}
+
+.description{
+    color: #868686;
+    font-weight: bold;
+    margin-top: -2px;
+}
+
+.post{
+    font-size: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.btn-info{
+    float: right;
+}
+
+.comment-block{
+    background: #F6F7F9;
+    display: block;
+}
+
+.comment-info{
+    color: #365899;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
